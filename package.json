@@ -18,7 +18,11 @@
   "homepage": "https://github.com/xzhzzz/koa2-test#readme",
   "dependencies": {
     "koa": "^2.5.1",
-    "koa-router": "^7.4.0"
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {}
 }
